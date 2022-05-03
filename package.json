@@ -1,0 +1,23 @@
+{
+  "name": "platzi-movies",
+  "version": "1.0.0",
+  "description": "PlatziMovies project from API Rest with JavaScript course of Platzi",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jejorm/platzi-movies.git"
+  },
+  "keywords": [],
+  "author": "Jeremy Orellana <jejorm>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jejorm/platzi-movies/issues"
+  },
+  "homepage": "https://github.com/Jejorm/platzi-movies#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
